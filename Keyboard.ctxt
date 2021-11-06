@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Keyboard
+comment0.text=\n\ Write\ a\ description\ of\ class\ Keyboard\ here.\n\ \n\ @author\ (your\ name)\ \n\ Oct\ 28,\ 2021\n
+comment1.params=
+comment1.target=Keyboard()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=world\ str
+comment3.target=void\ type(GamePlay,\ java.lang.String)
+numComments=4

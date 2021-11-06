@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=StartAssignment
+comment0.text=\n\ Write\ a\ description\ of\ class\ StartAssignment\ here.\n\ \n\ @Steven,\ Bill\n\ @Oct\ 29,\ 2021\n
+comment1.params=
+comment1.target=StartAssignment()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ initMusicFigure()
+comment4.params=
+comment4.target=void\ detectClick()
+comment5.params=
+comment5.target=void\ checkHover()
+numComments=6
