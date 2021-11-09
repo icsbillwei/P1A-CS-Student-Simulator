@@ -13,23 +13,16 @@ public class TitlePage extends World
      * Constructor for objects of class MyWorld.
      * 
      */
-    Keyboard key;
-    StartAssignment start; 
+    StartAssignment start; //Pressing button "start" to start the game
     
 
     public TitlePage()
     {    
-        // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
+        // Create a new world with 1280x720 cells with a cell size of 1x1 pixels.
         super(1280, 720, 1); 
-        key = new Keyboard();
         start = new StartAssignment();
-        addObject(start,785, 199);
+        addObject(start, 785, 199); //The blue "Start Assignment" button on the screen
 
     }
 
-    public void act(){
-        
-        
-        
-    }
 }

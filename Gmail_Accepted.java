@@ -1,15 +1,15 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Underscore here.
+ * Write a description of class Gmail_Accepted here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Underscore extends Sign
+public class Gmail_Accepted extends Sign
 {
     /**
-     * Act - do whatever the Underscore wants to do. This method is called whenever
+     * Act - do whatever the Gmail_Accepted wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
     public void act() 
